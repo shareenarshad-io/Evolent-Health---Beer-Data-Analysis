@@ -10,3 +10,5 @@ If you were to recommend 3 beers to your friends based on this data, which ones 
 Which beer style seems to be the favourite based on the reviews written by users? How does written reviews compare to overall review score for the beer style?
 
 This project aims to answer the above questions.
+
+Update: data was corrupted, could not download datasets.
